@@ -1,0 +1,27 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+.react-datepicker__input-container {
+  height: 90%;
+  margin: 17px 15px;
+  width: 87% !important;
+}
+.react-datepicker__close-icon {
+  height: 75% !important;
+}
+.date_picker {
+  height: 80%;
+  padding: 0px 12px;
+  width: 100%;
+}
